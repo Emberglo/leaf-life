@@ -1,3 +1,31 @@
 .text-size {
 	font-size: 3em;
 }
+
+.width-25 {
+	width: 25vw;
+}
+
+.height-25 {
+	height: 25vh;
+}
+
+.square {
+	height: 120px;
+	width: 120px;
+}
+
+.rectangle {
+	height: 120px;
+	width: auto;
+}
+
+.wide {
+	width: 80vw;
+}
+
+.green {
+	height: 40px;
+	width: 5px;
+	background-color: green;
+}
